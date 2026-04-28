@@ -1,0 +1,7 @@
+# Compiled binaries
+src/checksum_scanner
+src/change_detector
+
+# Generated logs and reports
+logs/
+reports/
